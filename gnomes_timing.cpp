@@ -70,4 +70,5 @@ int main() {
   print_bar();
 
   return 0;
+  
 }
