@@ -1,4 +1,4 @@
-CPSC335_GreedyGnomes
+# CPSC335_GreedyGnomes
 
 Course: Algorithm Engineering
 
