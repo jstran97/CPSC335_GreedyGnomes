@@ -340,6 +340,5 @@ namespace gnomes {
     }
 
   };
-
   
 }
