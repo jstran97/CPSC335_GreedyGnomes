@@ -1,6 +1,5 @@
-# project-4-skeleton
-Project 4: greedy gnomes
+# Project 4 Greedy Gnomes
 
 Group members:
 
-Justin Tran justin2168@csu.fullerton.edu
+Justin Tran  justin2168@csu.fullerton.edu
